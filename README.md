@@ -12,9 +12,7 @@
 <a href="https://www.leetcode.com/ahmedkhalid_10" target="blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=#d16c06&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" /></a>
 </div>
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/qIltqcndvrtp7kXQjb/giphy.gif?cid=790b7611uczbf9guv0lqhcbl5dtr0svfc3nus77h8kka1pjs&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+
 
 <h3 align="left">&#128587 Brief </h3>
 
