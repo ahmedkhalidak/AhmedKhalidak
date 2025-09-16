@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 - 💬 Ask me about **Python, ML, Data Science**
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ahmed-khalid-068636258/)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ahmed-khalidd-/)**
 
 <div id="header" align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
