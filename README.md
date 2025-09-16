@@ -4,7 +4,7 @@
 
 <h3 align="center"> How To Reach Me </h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/ahmed-khalid-068636258/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+<a href="https://www.linkedin.com/in/ahmed-khalidd/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 <a href="https://www.kaggle.com/ahmedkhalid10" target="blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=035a7d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" /></a>
 <a href="https://www.facebook.com/profile.php?id=100058059766342" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" /></a>
 <a href="https://medium.com/ahmedkhalid_10" target="blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" /></a>
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 - 💬 Ask me about **Python, ML, Data Science**
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ahmed-khalidd-/)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ahmed-khalidd/)**
 
 <div id="header" align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
